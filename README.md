@@ -2,6 +2,6 @@
 
 Ola bem vindo ao livro de receitas
 
-- Arroz Branco
-- Feijao Preto
-- Macarrão
+- Arroz Branco.
+- Feijao Preto.
+- Macarrão.
